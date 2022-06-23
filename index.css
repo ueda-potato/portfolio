@@ -24,7 +24,7 @@ nav {
 
 
 
-.list1{
+.list{
   display: table;
   text-align: left;
   margin-left: auto;
@@ -33,38 +33,6 @@ nav {
   list-style: none;
   padding: 0;
 }
-
-.list2{
-  display: table;
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  /* background: #888; */
-  list-style: none;
-  padding: 0;
-}
-
-.list3{
-  display: table;
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  /* background: #888; */
-  list-style: none;
-  padding: 0;
-}
-
-.list4{
-  display: table;
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  /* background: #888; */
-  list-style: none;
-  padding: 0;
-}
-
-
 
   ul.menu {
     display: flex;
@@ -85,12 +53,6 @@ nav {
     list-style-type: none;
     padding-left: 0;
   }
-
-
-
-
-
-
 
   footer{
     width: 100%;
