@@ -9,7 +9,6 @@ nav {
 }
 
 
-
 .centering_about {
   padding: 20px;              /* 余白指定 */
   text-align:  center;        /* 中央寄せ */
@@ -17,7 +16,6 @@ nav {
   height: 100px;              /* 高さ指定 */
 
 }
-
 
 
 /* ----------- iPhone 11 Pro ----------- */
@@ -43,7 +41,6 @@ img {
 footer{
   text-align: center;
 }
-
 
 
 .list{
@@ -83,3 +80,22 @@ footer{
     background-color: black;
     color: aliceblue;
   }
+
+  .g-slide{
+    position: relative;
+    overflow: hidden;
+    /* margin: 50px 0 20px 0;
+    padding-bottom: 50%;
+    padding-top: 65px; */
+    }
+
+  img.task2_seiza {
+      width: 100%;
+      height: auto;
+  }
+  
+  img.task3_map.png {
+      width: 100%;
+      height: auto;
+    }
+  
